@@ -6,7 +6,7 @@
 Android Architecture Blueprints is a project to showcase different architectural approaches to developing Android apps. In its different branches you'll find the same app (a TODO app) implemented with small differences.
 
 In this branch you'll find:
-*   User Interface built with **[Jetpack Compose](https://developer.android.com/jetpack/compose)** 
+*   User Interface built with **[Jetpack Compose](https://developer.android.com/jetpack/compose)**. 
 *   A single-activity architecture, using **[Navigation Compose](https://developer.android.com/jetpack/compose/navigation)**.
 *   A presentation layer that contains a Compose screen (View) and a **ViewModel** per screen (or feature).
 *   Reactive UIs using **[Flow](https://developer.android.com/kotlin/flow)** and **[coroutines](https://kotlinlang.org/docs/coroutines-overview.html)** for asynchronous operations.
